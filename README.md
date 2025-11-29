@@ -1,2 +1,2 @@
 # Techwizs
-url
+url www.techwizs.com
